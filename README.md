@@ -9,7 +9,7 @@ If you find this helpful and you're feeling generous, I'd love for you to buy me
 So far, I have all 5 ports (UART and USART0-3) all working for TX only.
 
 ## Hardware
-I am currently developing an Arduino Due shield with 4 fully isolated DMX ports and ethernet.  It will be available towards the end of 2018 for purchase.  It is designed specifically to work with this library but will also function on the Arduino Mega.  If you're interested in this, [let me know here](https://github.com/mtongnz).
+I am currently developing an Arduino Due shield with 4 fully isolated DMX ports and ethernet.  It will be available towards the end of 2018 for purchase.  It is designed specifically to work with this library but will also function on the Arduino Mega.  If you're interested in this, [let me know here](https://github.com/mtongnz/mtDueDMX/issues/1).
 
 ## Feature's Coming Soon
 - Obviously DMX input... Depending on my schedule, it should be done pretty soon.
